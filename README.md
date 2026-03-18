@@ -1,4 +1,4 @@
-# Introdução ao JavaScript - ADS Unicesumar 🚀
+# Introdução ao JavaScript - ADS E ENGENHARIA DE SOFTWARE Unicesumar 🚀
 
 Este repositório contém o material prático e a lista de exercícios desenvolvidos para a disciplina de **Programação Front-end** do curso de Análise e Desenvolvimento de Sistemas (ADS) na **Unicesumar**.
 
